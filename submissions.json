@@ -1,4 +1,20 @@
 {
+  "AC20555018": {
+    "contest_id": "abc193",
+    "language": "C (GCC 9.2.1)",
+    "path": "atcoder\\abc193\\C.c",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Unexpressed",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_c",
+    "submission_id": "AC20555018",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/20555018",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/27/2021 20:01"
+  },
   "AC21303089": {
     "contest_id": "abc197",
     "language": "C (GCC 9.2.1)",
