@@ -1,4 +1,20 @@
 {
+  "AC25981706": {
+    "contest_id": "abc219",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc219\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Maritozzo",
+    "problem_url": "https://atcoder.jp/contests/abc219/tasks/abc219_b",
+    "submission_id": "AC25981706",
+    "submission_url": "https://atcoder.jp/contests/abc219/submissions/25981706",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/19/2021 17:27"
+  },
   "AC26151640": {
     "contest_id": "abc220",
     "language": "C++ (GCC 9.2.1)",
