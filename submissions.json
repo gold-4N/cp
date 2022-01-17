@@ -1,4 +1,21 @@
 {
+  "CF143045586": {
+    "contest_id": 1626,
+    "language": "GNU C++14",
+    "path": "codeforces\\1626\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minor Reduction",
+    "problem_url": "https://codeforces.com/contest/1626/problem/B",
+    "submission_id": "CF143045586",
+    "submission_url": "https://codeforces.com/contest/1626/submission/143045586",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jan/17/2022 07:16"
+  },
   "CF143355141": {
     "contest_id": 1624,
     "language": "GNU C++14",
