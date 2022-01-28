@@ -1,4 +1,20 @@
 {
+  "AC28846823": {
+    "contest_id": "abc232",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc232\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Caesar Cipher",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_b",
+    "submission_id": "AC28846823",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/28846823",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/28/2022 23:38"
+  },
   "AC28920197": {
     "contest_id": "abc237",
     "language": "C++ (GCC 9.2.1)",
