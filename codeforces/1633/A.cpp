@@ -14,6 +14,7 @@ int main()
       int d=n%7;
       int a=n%10;
       if(a-d<0)cout<<((n/7)+1)*7<<endl;
+      else if((a+(7-d))>9)cout<<n-d<<endl;
       else cout<<n-d<<endl;
     }
   }
