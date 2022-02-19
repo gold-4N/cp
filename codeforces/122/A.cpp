@@ -5,8 +5,8 @@ int main()
     int n;
     cin>>n;
     vector<int>v;
-    v.push_back(4);
-    v.push_back(7);
+    for (int i = 1;i*4<=1000; i++)v.push_back(i*4);
+    for (int i = 1;i*7<=1000; i++)v.push_back(i*7);
     v.push_back(47);
     v.push_back(477);
     v.push_back(474);
