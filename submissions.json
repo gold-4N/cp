@@ -1,4 +1,24 @@
 {
+  "CF148690409": {
+    "contest_id": 1646,
+    "language": "GNU C++17",
+    "path": "codeforces\\1646\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Quality vs Quantity",
+    "problem_url": "https://codeforces.com/contest/1646/problem/B",
+    "submission_id": "CF148690409",
+    "submission_url": "https://codeforces.com/contest/1646/submission/148690409",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2022 17:26"
+  },
   "CF148704226": {
     "contest_id": 1649,
     "language": "GNU C++17",
