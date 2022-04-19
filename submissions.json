@@ -1,4 +1,21 @@
 {
+  "CF154103223": {
+    "contest_id": 1668,
+    "language": "GNU C++14",
+    "path": "codeforces\\1668\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Direction Change",
+    "problem_url": "https://codeforces.com/contest/1668/problem/A",
+    "submission_id": "CF154103223",
+    "submission_url": "https://codeforces.com/contest/1668/submission/154103223",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/19/2022 21:24"
+  },
   "CF154119684": {
     "contest_id": 1668,
     "language": "GNU C++14",
