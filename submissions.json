@@ -1,4 +1,20 @@
 {
+  "CF155913080": {
+    "contest_id": 1671,
+    "language": "GNU C++14",
+    "path": "codeforces\\1671\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Building",
+    "problem_url": "https://codeforces.com/contest/1671/problem/A",
+    "submission_id": "CF155913080",
+    "submission_url": "https://codeforces.com/contest/1671/submission/155913080",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/05/2022 17:43"
+  },
   "CF155943631": {
     "contest_id": 1675,
     "language": "GNU C++14",
