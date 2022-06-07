@@ -1,4 +1,22 @@
 {
+  "CF159692642": {
+    "contest_id": 489,
+    "language": "GNU C++14",
+    "path": "codeforces\\489\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Given Length and Sum of Digits...",
+    "problem_url": "https://codeforces.com/contest/489/problem/C",
+    "submission_id": "CF159692642",
+    "submission_url": "https://codeforces.com/contest/489/submission/159692642",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/07/2022 13:07"
+  },
   "CF159739276": {
     "contest_id": 1690,
     "language": "GNU C++14",
