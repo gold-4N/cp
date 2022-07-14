@@ -1,4 +1,24 @@
 {
+  "CF164178395": {
+    "contest_id": 1703,
+    "language": "GNU C++17",
+    "path": "codeforces\\1703\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Good Key, Bad Key",
+    "problem_url": "https://codeforces.com/contest/1703/problem/G",
+    "submission_id": "CF164178395",
+    "submission_url": "https://codeforces.com/contest/1703/submission/164178395",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jul/15/2022 00:01"
+  },
   "CF164485031": {
     "contest_id": 1708,
     "language": "GNU C++17",
