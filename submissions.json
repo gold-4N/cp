@@ -1,4 +1,21 @@
 {
+  "CF164574211": {
+    "contest_id": 1708,
+    "language": "GNU C++17",
+    "path": "codeforces\\1708\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Doremy's IQ",
+    "problem_url": "https://codeforces.com/contest/1708/problem/C",
+    "submission_id": "CF164574211",
+    "submission_url": "https://codeforces.com/contest/1708/submission/164574211",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jul/17/2022 11:27"
+  },
   "CF164750794": {
     "contest_id": 1706,
     "language": "GNU C++17",
