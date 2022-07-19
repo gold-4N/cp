@@ -1,4 +1,22 @@
 {
+  "CF164933741": {
+    "contest_id": 1706,
+    "language": "GNU C++17",
+    "path": "codeforces\\1706\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Making Towers",
+    "problem_url": "https://codeforces.com/contest/1706/problem/B",
+    "submission_id": "CF164933741",
+    "submission_url": "https://codeforces.com/contest/1706/submission/164933741",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/20/2022 00:44"
+  },
   "CF164936832": {
     "contest_id": 1706,
     "language": "GNU C++17",
