@@ -1,4 +1,20 @@
 {
+  "CF167141074": {
+    "contest_id": 24,
+    "language": "GNU C++17",
+    "path": "codeforces\\24\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ring road",
+    "problem_url": "https://codeforces.com/contest/24/problem/A",
+    "submission_id": "CF167141074",
+    "submission_url": "https://codeforces.com/contest/24/submission/167141074",
+    "tags": [
+      "graphs",
+      "*1400"
+    ],
+    "timestamp": "Aug/05/2022 23:51"
+  },
   "CF167197680": {
     "contest_id": 492,
     "language": "GNU C++17",
